@@ -47,8 +47,8 @@ Logistic-Regression-Club-Datai:.
 │       │           script2.js
 │       │
 │       ├───templates
-│       │       index.html
-│       │
+│                   index.html
+│       
 │
 └───PPT
         Pre_RL.pdf
