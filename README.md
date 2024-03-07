@@ -17,14 +17,14 @@ web app for credit estimation
 ## Repository Structure
 
 ```batch
-C:.
+Logistic-Regression-Club-Datai:.
 │   README.md
 │
 ├───images
 │       web_app.png
 │       workflow.png
 │
-├───Main
+├───PROJECT
 │   │   classifier.pkl
 │   │   dataset.csv
 │   │   label_encoders.pkl
